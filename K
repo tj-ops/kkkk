@@ -1,0 +1,11 @@
+*Guide- Light Usage*
+
+Please bear in mind the following are for use in Infinite Flight and are not necessarily accurate with that of real life.
+
+NAV lights: Turned on whenever electrical power is being supplied to the aircraft. In IF’s case, whenever you turn on the “Master Switch” and should stay on throughout the duration of flight.
+
+BEACON lights: Turned on whenever the aircraft is moving and should stay on until the aircraft comes to rest at your destination. 
+
+LANDING lights: Turned on whenever you are cleared for takeoff and should be on at all times below 10,000ft AGL, not MSL.
+
+STROBE lights: Turned on prior to entering an active runway and should stay on until you’re off the runway at your destination. 
